@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aine-Coghlan
+- 🌱 I’m currently learning Computer Science at University of Galway
+- 😄 Pronouns: she/her
